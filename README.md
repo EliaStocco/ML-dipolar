@@ -3,9 +3,8 @@
 This repository contains the datasets used in the research paper:  
 [arXiv:2502.02413](https://arxiv.org/abs/2502.02413).
 
-This is the used `MACE` branch: https://github.com/EliaStocco/mace/tree/elia
+The used `MACE` branch is: https://github.com/EliaStocco/mace/tree/elia
 
-Plase cite:
 If you use any of these datasets or the provided, please cite this preprint:
 
 ```text
